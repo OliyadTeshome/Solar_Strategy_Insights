@@ -57,10 +57,11 @@ The datasets cover:
    cd solar-strategy-insights
 
 2. Create a virtual environment and install dependencies:
+    ```bash
     python -m venv .venv
     pip install -r requirements.txt
 
-3. Run notebooks in the notebooks/ folder using Jupyter or VSCode.
+4. Run notebooks in the notebooks/ folder using Jupyter or VSCode.
 
 ---
 
