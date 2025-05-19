@@ -61,7 +61,7 @@ The datasets cover:
     python -m venv .venv
     pip install -r requirements.txt
 
-3. Run notebooks in the notebooks/ folder using Jupyter or VSCode.
+4. Run notebooks in the notebooks/ folder using Jupyter or VSCode.
 
 ---
 
