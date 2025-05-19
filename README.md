@@ -17,7 +17,7 @@ solar-strategy-insights/
 
 ---
 
-## 🧪 Data Sources
+## Data Sources
 
 The datasets cover:
 - **Solar installation performance** (production, uptime, maintenance)
@@ -66,6 +66,7 @@ The datasets cover:
 ---
 
 ## Tools & Libraries
+
  - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
  - Jupyter Notebook
  - Git & GitHub
