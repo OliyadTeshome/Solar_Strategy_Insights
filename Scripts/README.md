@@ -1,5 +1,3 @@
-## Scripts
+Scripts
 
----
-
-### This directory contains utility scripts for data processing and analysis.
+This directory contains utility scripts for data processing and analysis.
