@@ -1,3 +1,11 @@
+.venv
+
+.vscode
+
+benin-malanville.csv
+sirraleone-bumbuna.csv
+togo-dapaong.csv
+
 benin_clean.csv
 sierraleone_clean.csv
 togo_clean.csv
