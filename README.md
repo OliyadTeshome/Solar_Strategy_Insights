@@ -36,12 +36,19 @@ The goal of this project is to compare key solar irradiance metrics across these
 ## 📂 Repository Structure
 
 ├── benin__eda.ipynb # Exploratory analysis of Benin solar farm data
+
 ├── compare_countries.ipynb # Comparative analysis across Benin, Togo, and Sierra Leone
+
 ├── Final_Solar_Potential_Report.md # Full report of methodology and findings
+
 ├── solar_irradiance_boxplots.png # Visualization output
+
 ├── data/ # Folder containing raw or cleaned CSV datasets
+
 │ ├── benin.csv
+
 │ ├── togo.csv
+
 │ └── sierra_leone.csv
 
 
