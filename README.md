@@ -22,13 +22,13 @@ solar-strategy-insights/
 
 ---
 
-# ☀️ Solar Potential Analysis in West Africa
+# Solar Potential Analysis in West Africa
 
 This project analyzes solar irradiance data from three West African countries — **Benin**, **Togo**, and **Sierra Leone** — to uncover trends and evaluate their potential for solar energy investment.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to compare key solar irradiance metrics across these countries and identify which region offers the most consistent and high-performing solar energy profile. The metrics explored include:
 
@@ -38,7 +38,7 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ├── benin__eda.ipynb # Exploratory analysis of Benin solar farm data
 
@@ -59,7 +59,7 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Jupyter Notebook**
@@ -68,7 +68,7 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - **Benin** exhibits the highest solar irradiance across all three metrics, making it a strong candidate for solar investment.
 - **Togo** shows competitive performance, though slightly lower than Benin.
@@ -78,7 +78,7 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 ---
 
-## 🚧 Challenges & Solutions
+## Challenges & Solutions
 
 | Challenge | Solution |
 |----------|----------|
@@ -88,7 +88,7 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Add **seasonality analysis** using multi-year data
 - Incorporate **weather context** (e.g., cloud cover, temperature)
@@ -97,7 +97,7 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 ---
 
-## 📈 Results
+## Results
 
 Summary statistics revealed:
 
@@ -109,7 +109,7 @@ Summary statistics revealed:
 
 ---
 
-## 📃 Final Report
+## Final Report
 
 Read the full report in [Final_Solar_Potential_Report.md](./Final_Solar_Potential_Report.md) for details on:
 - Objectives
