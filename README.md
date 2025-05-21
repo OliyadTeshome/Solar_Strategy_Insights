@@ -9,10 +9,15 @@ This project analyzes solar energy infrastructure and production data in **Benin
 ## Project Structure
 
 solar-strategy-insights/
+
 ├── data/ # Raw and cleaned datasets
+
 ├── notebooks/ # Jupyter notebooks for analysis and EDA
+
 ├── outputs/ # Visualizations, CSV reports, and summaries
+
 ├── scripts/ # Reusable Python scripts for preprocessing and analysis
+
 └── README.md # Project documentation
 
 ---
@@ -69,7 +74,7 @@ The goal of this project is to compare key solar irradiance metrics across these
 - **Togo** shows competitive performance, though slightly lower than Benin.
 - **Sierra Leone** has the most variability and generally lower values, indicating possible need for hybrid systems.
 
-![Solar Boxplots](solar_irradiance_boxplots.png)
+![alt text](image.png)
 
 ---
 
