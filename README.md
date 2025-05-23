@@ -97,7 +97,6 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 - Add **seasonality analysis** using multi-year data
 - Incorporate **weather context** (e.g., cloud cover, temperature)
-- Build a **Power BI dashboard** for decision-makers
 - Train a **predictive model** for solar energy forecasting
 
 ---
