@@ -50,7 +50,7 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 │ └── compare_countries.ipynb # Comparative analysis across Benin, Togo, and Sierra Leone
 
-├── [Final_Solar_Potential_Report.md](https://drive.google.com/file/d/1--SAQyp25HnuDs-Y7BhlnfmRAom9Vgkn/view?usp=sharing) # Full report of methodology and findings
+├── [Final_Solar_Strategy_Insights](https://drive.google.com/file/d/1--SAQyp25HnuDs-Y7BhlnfmRAom9Vgkn/view?usp=sharing) # Full report of methodology and findings
 
 ├── solar_irradiance_boxplots.png # Visualization output
 
@@ -115,7 +115,7 @@ Summary statistics revealed:
 
 ## Final Report
 
-Read the full report in https://drive.google.com/file/d/1--SAQyp25HnuDs-Y7BhlnfmRAom9Vgkn/view?usp=sharing for details on:
+Read the full report in [Final_Solar_Strategy_Insights](https://drive.google.com/file/d/1--SAQyp25HnuDs-Y7BhlnfmRAom9Vgkn/view?usp=sharing) for details on:
 - Objectives
 - Methodology
 - Data Challenges
