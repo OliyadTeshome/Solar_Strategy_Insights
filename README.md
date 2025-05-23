@@ -10,11 +10,11 @@ This project analyzes solar energy infrastructure and production data in **Benin
 
 solar-strategy-insights/
 
-├── data/ # Raw and cleaned datasets
+├── src/ # Raw datasets
 
 ├── notebooks/ # Jupyter notebooks for analysis and EDA
 
-├── outputs/ # Visualizations, CSV reports, and summaries
+├── Cleaned_data/ # cleaned datasets
 
 ├── scripts/ # Reusable Python scripts for preprocessing and analysis
 
@@ -40,21 +40,27 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 ## Repository Structure
 
-├── benin__eda.ipynb # Exploratory analysis of Benin solar farm data
+├── notebooks/
 
-├── compare_countries.ipynb # Comparative analysis across Benin, Togo, and Sierra Leone
+│ ├── benin__eda.ipynb # Exploratory analysis of Benin solar farm data
 
-├── Final_Solar_Potential_Report.md # Full report of methodology and findings
+│ ├── sierra_leone__eda.ipynb # Exploratory analysis of sierra_leone solar farm data
+
+│ ├── togo__eda.ipynb # Exploratory analysis of togo solar farm data
+
+│ └── compare_countries.ipynb # Comparative analysis across Benin, Togo, and Sierra Leone
+
+├── [Final_Solar_Potential_Report.md](https://drive.google.com/file/d/1--SAQyp25HnuDs-Y7BhlnfmRAom9Vgkn/view?usp=sharing) # Full report of methodology and findings
 
 ├── solar_irradiance_boxplots.png # Visualization output
 
-├── data/ # Folder containing raw or cleaned CSV datasets
+├──Cleaned_data/ # Folder containing raw or cleaned CSV datasets
 
-│ ├── benin.csv
+│ ├── benin_clean.csv
 
-│ ├── togo.csv
+│ ├── sierra_leone_clean.csv
 
-│ └── sierra_leone.csv
+│ └── togo_clean.csv 
 
 
 ---
@@ -63,7 +69,6 @@ The goal of this project is to compare key solar irradiance metrics across these
 
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Jupyter Notebook**
-- **Power BI / Microsoft Fabric** *(recommended for future dashboarding)*
 - **Word / PDF** *(for final report generation)*
 
 ---
@@ -74,7 +79,7 @@ The goal of this project is to compare key solar irradiance metrics across these
 - **Togo** shows competitive performance, though slightly lower than Benin.
 - **Sierra Leone** has the most variability and generally lower values, indicating possible need for hybrid systems.
 
-![alt text](image.png)
+![alt text](solar_irradiance_plotboxs.png)
 
 ---
 
@@ -111,7 +116,7 @@ Summary statistics revealed:
 
 ## Final Report
 
-Read the full report in [Final_Solar_Potential_Report.md](./Final_Solar_Potential_Report.md) for details on:
+Read the full report in https://drive.google.com/file/d/1--SAQyp25HnuDs-Y7BhlnfmRAom9Vgkn/view?usp=sharing for details on:
 - Objectives
 - Methodology
 - Data Challenges
@@ -120,7 +125,7 @@ Read the full report in [Final_Solar_Potential_Report.md](./Final_Solar_Potentia
 
 ---
 
-## 👤 Author
+## Author
 
 **Oliyad Teshome**  
 📧 oliyadteshomedida@gmail.com  
